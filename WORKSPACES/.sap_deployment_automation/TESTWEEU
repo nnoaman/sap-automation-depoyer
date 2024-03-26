@@ -1,0 +1,13 @@
+ARM_SUBSCRIPTION_ID=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+sshsecret=TEST-WEEU-VNET-sshkey
+deployer_random_id=YzF5zg
+deployer_public_ip_address=52.174.236.174
+deployer_app_config_name=testweeuapc633
+created_resource_group_name=TEST-WEEU-VNET-INFRASTRUCTURE
+keyvault=TESTWEEUVNETuser633
+environment=TEST
+subscription=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+client_id=db280707-ec1e-4967-848f-7dd3458d6f43
+tenant_id=c01abe72-ffef-4ecc-bda0-937975b49e6b
+STATE_SUBSCRIPTION=d6c8e3b6-467e-452e-97c9-49d9de9e37da
+step=2
