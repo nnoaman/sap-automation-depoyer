@@ -8,4 +8,4 @@ location="westeurope"
 dns_label = "azure.sapcontoso.com"
 
 # use_private_endpoint defines that the storage accounts and key vaults have private endpoints enabled
-use_private_endpoint = false
+use_private_endpoint = true
