@@ -1,6 +1,6 @@
 # Control Plane Deployment #
 
-Date : "Tue Apr  2 10:30:21 UTC 2024"
+Date : "Fri Apr  5 20:28:44 UTC 2024"
 
 ## Configuration details ##
 
@@ -9,6 +9,6 @@ Date : "Tue Apr  2 10:30:21 UTC 2024"
 | Environment             | TEST         |
 | Location                | westeurope              |
 | Keyvault Name           | TESTWEEUVNETuser633                                 |
-| Deployer IP             | 52.174.236.174                                      |
+| Deployer IP             |                                                     |
 | Terraform state         | testweeutfstate095                         |
 
